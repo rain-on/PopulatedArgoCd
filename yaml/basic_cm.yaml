@@ -7,4 +7,4 @@ data:
   log_level: INFO
   feature_flag_enabled: "true"
   database_url: "jdbc:postgresql://mydb.example.com:5432/myappdb"
-  my_value: "PutThisValueIn"
+  my_value: "oldValue"
