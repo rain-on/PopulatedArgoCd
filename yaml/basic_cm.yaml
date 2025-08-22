@@ -7,4 +7,4 @@ data:
   log_level: INFO
   feature_flag_enabled: "true"
   database_url: "jdbc:postgresql://mydb.example.com:5432/myappdb"
-  release_number: "0.0.10"
+  deployment_created_at: "Friday, 22 August 2025 4:46:22 pm"
