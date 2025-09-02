@@ -57,8 +57,7 @@ spec:
   - protocol: TCP
     port: 80
     targetPort: 80
-    nodePort: 30080
-  type: NodePort # Or ClusterIP if you don't need external access
+  type: LoadBalancer # Or ClusterIP if you don't need external access
 ---
 apiVersion: v1
 kind: ConfigMap
@@ -70,7 +69,7 @@ data:
     <!DOCTYPE html>
     <html>
     <head>
-      <title>Hello from Nginx!</title>
+      <title>AU (Dev) would like to say hello</title>
     </head>
     <body>
       <h1>Good Chat from Kubernetes and ArgoCD!</h1>
