@@ -7,4 +7,4 @@ data:
   log_level: INFO
   feature_flag_enabled: "true"
   database_url: "jdbc:postgresql://mydb.example.com:5432/myappdb"
-  deployment_created_at: "Thursday, 4 September 2025 1:00:46 pm"
+  deployment_created_at: "Monday, 29 September 2025 7:41:16 pm"
