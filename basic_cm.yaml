@@ -5,7 +5,7 @@ metadata:
 data:
   # Key-value pairs for configuration data
   log_level: INFO
-  directory: "development_fake"
+  directory: "development"
   feature_flag_enabled: "true"
   database_url: "jdbc:postgresql://mydb.example.com:5432/myappdb"
-  deployment_created_at: "Thursday, 26 February 2026 6:05:46 pm"
+  deployment_created_at: "Thursday, 26 February 2026 6:28:35 pm"
